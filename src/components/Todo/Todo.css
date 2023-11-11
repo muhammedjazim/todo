@@ -1,0 +1,12 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: darkolivegreen;
+}
+.mainbuddy {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
