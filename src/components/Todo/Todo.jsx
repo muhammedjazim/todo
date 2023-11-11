@@ -2,7 +2,6 @@ import React, {useEffect, useState} from 'react'
 import TodoCreate from '../TodoCreate/TodoCreate'
 import TodoElement from '../TodoElement/TodoElement'
 import './Todo.css'
-import {usePopper} from 'react-popper'
 
 
 function Todo() {
